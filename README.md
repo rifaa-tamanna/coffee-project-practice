@@ -1,60 +1,118 @@
-# ☕ Coffee Corner
+# Coffee Project Practice
 
-<p align="center">
-  <img src="./gallery/coffee-background-image.jpg" alt="Coffee Corner" width="100%">
-</p>
-
-## 📌 Overview
-
-**Coffee Corner** is a modern and visually appealing coffee shop landing page built with HTML5 and CSS3.
-
-The website presents a coffee brand through a clean hero section, brand story, popular coffee selections, opening hours, and a visually engaging closing section.
-
-This project was created as a practice project to strengthen my understanding of **HTML structure, CSS styling, layouts, positioning, typography, and responsive web design concepts**.
+A clean and modern coffee shop landing page built with HTML5 and CSS3. The website presents a visually appealing coffee shop experience with a hero section, brand story, popular coffee selections, opening hours, and a simple, elegant layout.
 
 ---
 
-## 🚀 Live Demo
+## 🔗 Live Demo
 
-🔗 **Live Website:**  
-https://rifaa-tamanna.github.io/coffee-project-practice/
-
-🔗 **GitHub Repository:**  
-https://github.com/rifaa-tamanna/coffee-project-practice
-
----
-
-## 🛠️ Technologies Used
-
-- HTML5
-- CSS3
-- Google Fonts
-  - Montserrat
-  - Roboto
+- **Coffee Shop Website:** https://rifaa-tamanna.github.io/coffee-project-practice/
 
 ---
 
 ## ✨ Features
 
-- ☕ Modern coffee shop landing page
-- 🎨 Clean and elegant coffee-themed UI
-- 🧭 Navigation bar with Home, About and Contact links
-- 🖼️ Full-screen hero/banner section
-- 📖 Our Story section
-- ☕ Popular coffee menu section
-- 💰 Product pricing display
-- 🕐 Opening hours section
-- 🌙 Coffee-themed dark and warm color palette
-- ✨ Hover effects on buttons and menu items
-- 📱 Structured layout for different screen sizes
-- 🖼️ Custom coffee-related images and visual assets
+The coffee shop website includes the following sections:
+
+### Navigation Bar
+
+- Simple and clean navigation menu
+- Easy access to different sections of the website
+- Navigation links for Home, About, and Contact
+
+### Hero Section
+
+- Attractive coffee-themed hero section
+- Catchy headline and introduction
+- Call-to-action button for ordering coffee
+- Visually engaging background design
+
+### Our Story
+
+- Introduction to the coffee shop
+- Short brand story and background
+- Clean and readable content layout
+
+### Popular Picks
+
+- Showcase of popular coffee items
+- Coffee product images
+- Product names and pricing
+- Clean card-based presentation
+
+### Opening Hours
+
+- Weekly opening hours
+- Simple and organized schedule
+- Easy-to-read layout
+
+### Coffee Experience Section
+
+- Engaging coffee-themed content
+- Highlighting the shop's availability
+- Attractive visual presentation
+
+### Footer
+
+- Clean and minimal footer section
+- Additional website information
+- Simple and consistent design
 
 ---
 
-## 📂 Project Structure
+## 🛠️ Technologies Used
 
-text
+- **HTML5** — Used to structure the website and its content
+- **CSS3** — Used for styling, layout, typography, positioning, and visual design
+- **Google Fonts** — Used for Montserrat and Roboto typography
+
+---
+
+## 📦 Dependencies
+
+This project does not use any external frameworks, JavaScript libraries, or npm packages.
+
+It is built using:
+
+- HTML5
+- CSS3
+- Google Fonts
+
+No package installation or dependency management is required.
+
+---
+
+## 🚀 Local Development Setup
+
+No installation or build process is required to run this project locally.
+
+### Clone the Repository
+
+bash
+git clone https://github.com/rifaa-tamanna/coffee-project-practice.git
+
+---
+
+Navigate to the Project Directory
+cd coffee-project-practice
+
+---
+
+Run the Project
+
+Simply open the index.html file in your web browser.
+
+For a better development experience, you can also use the Live Server extension in Visual Studio Code.
+
+---
+
+📁 Project Directory Structure
 coffee-project-practice/
+│
+├── index.html
+│
+├── style/
+│   └── style.css
 │
 ├── gallery/
 │   ├── bg-image.avif
@@ -66,60 +124,15 @@ coffee-project-practice/
 │   ├── glass.png
 │   └── our-story.avif
 │
-├── style/
-│   └── style.css
-│
-└── index.html
+└── README.md
 
 ---
 
-📦 Dependencies
-
-This project does not use any npm packages or JavaScript libraries.
-
-External Resource
-
-The project uses Google Fonts:
-
-Montserrat
-Roboto
+💻 Repository
+GitHub Repository: https://github.com/rifaa-tamanna/coffee-project-practice
 
 ---
 
-🎨 Design Highlights
+📄 License
 
-The website uses a warm coffee-inspired visual style with:
-
-Dark brown background tones
-Warm golden accent colors
-Clean typography
-Rounded buttons and cards
-Image-based visual sections
-Simple and minimal layout
-
-
-📚 What I Learned
-
-While building this project, I practiced:
-
-Semantic HTML structure
-CSS layout techniques
-Flexbox
-CSS Grid
-Positioning
-Typography
-Background images
-Hover effects
-Button styling
-Spacing and alignment
-Using Google Fonts
-Organizing project files and assets
-
-
-👩‍💻 Author
-Rifa Tamanna
-
-I'm an aspiring Full Stack Web Developer currently learning and building projects to improve my development skills.
-
-GitHub: https://github.com/rifaa-tamanna
-LinkedIn: https://www.linkedin.com/in/rifaa-tamanna/
+This project is created for learning and practice purposes.
